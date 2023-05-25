@@ -6,7 +6,7 @@ import './App.css'
 export default function Meteorites({meteoriteList}) {
 
 const icon = new Icon ({
-    iconUrl: "/public/icon.png",
+    iconUrl: "/public/images/icon.png",
     iconSize: [22, 26]
 })
     return (
